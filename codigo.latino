@@ -1,0 +1,8 @@
+suma = 8.4 + 2.5
+imprimir(suma)
+
+resta = 10 - 2
+imprimir(resta)
+
+
+
